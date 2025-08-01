@@ -11,7 +11,6 @@
             display: flex;
             flex-direction: column;
             height: 520px;
-            /* Hesap makinesiyle aynı yükseklik */
         }
 
         .historyTitle {
@@ -64,7 +63,7 @@
             flex-shrink: 0;
         }
 
-        /* Kaydırma çubuğu stilleri */
+
         .historyContent::-webkit-scrollbar {
             width: 8px;
         }
